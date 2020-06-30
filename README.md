@@ -1,1 +1,1 @@
-# SplunkDashboard
+# SplunkDashboard Samples
